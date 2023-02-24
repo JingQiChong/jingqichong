@@ -4,7 +4,7 @@
 
 - Currently, I am learning more about bioinformatics while working and I am happy to receive any comments on my work!(especially nf_CRACpipeline).
 - More about me: 
-- [LinkedIn](https://www.linkedin.com/in/chong-jing-qi-2b0a7919a/)
+  - [LinkedIn](https://www.linkedin.com/in/chong-jing-qi-2b0a7919a/)
 
 
 
