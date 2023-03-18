@@ -1,6 +1,4 @@
-# <div align="center">👋 Hello ! Welcome to my world!👋 </div>
-
->**This website is still under development**
+# <div align="center">👋 Hello ! Welcome to my github!👋 </div>
 
 My name is Jing Qi and I am currently a research assistant in [Prof. Albert Tenesa](https://www.ed.ac.uk/profile/albert-tenesa)'s lab at the Roslin Institute. I am currently working on developing a bioinformatics workflow that select suitable sites for a DNA methylation array using publicly available methylation data (Bisulphite Sequencing). I recently graduated from the University of Edinburgh holding a bachelor degree in BSc (Hons) Biological Sciences (Genetics).
  
