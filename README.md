@@ -16,5 +16,5 @@ About my honours project work:
 
 You can also find me on: 
   - [The Roslin Institute](https://www.ed.ac.uk/profile/jchong)
-  - [LinkedIn](https://www.linkedin.com/in/chong-jing-qi-2b0a7919a/)
+  - [LinkedIn](https://www.linkedin.com/in/jing-qi-chong-2b0a7919a)
   - [Wallace lab](https://ewallace.github.io/team/jingqi-chong)
