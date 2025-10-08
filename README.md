@@ -1,6 +1,8 @@
 # <div align="center">👋 Hello, welcome to my world!👋</div>
 
-My name is Jing Qi and I am a research assistant in [Prof Albert Tenesa](https://www.ed.ac.uk/profile/albert-tenesa)'s lab at the Roslin Institute. Currently, I am working with [Dr Pau Navarro](https://www.ed.ac.uk/profile/pau-navarro) to develop the first high-density DNA methylation array for cattle using a self-designed bioinformatics workflow. 
+My name is Jing Qi, and I am currently a MRes Biomedical Research student at Imperial College London. 
+
+Before enrolling into the MRes programme, I was working as a research assistant in [Prof Albert Tenesa](https://www.ed.ac.uk/profile/albert-tenesa)'s lab at the Roslin Institute. I was working with [Dr Pau Navarro](https://www.ed.ac.uk/profile/pau-navarro), [Prof James Prendergast](https://www.ed.ac.uk/profile/james-prendergast) and [Prof Albert Tenesa](https://www.ed.ac.uk/profile/albert-tenesa) to develop the first high-density DNA methylation array for cattle using a self-designed bioinformatics workflow. 
 
 I am interested in understanding the molecular background of diseases in humans and livestock, utlising multi-omics and machine learning approaches. Moreover, my bioinformatician alter ego enjoys developing tools and reproducible workflows for data analysis.
 
